@@ -1,3 +1,3 @@
 # flutter_important_widgets
 
-A new Flutter project.
+Not much to see here. This repo was created to solve GIT related Tasks at the App Akademie. This repo just contains some widgets and a bit of code along the lesson. 
